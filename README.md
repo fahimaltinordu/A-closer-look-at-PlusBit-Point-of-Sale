@@ -87,13 +87,13 @@ You don't need to wait wallet sync.
 
 ## **Are there features planned beyond this release?**
 
-- [x] * Invoice history (Q1/2020) 
-- [x]  * New currency conversion support (Q1-Q2/2020) 
-* Invoice printing (Q1/2020)
-* New language support (Q1-Q2/2020) 
-* Works on iOS (Q2/2020) 
-* Pin protection (Q2/2020) 
-* NFC payments (Q4/2020) 
+- [x] Invoice history (Q1/2020) 
+- [x] New currency conversion support (Q1-Q2/2020) 
+- [ ] Invoice printing (Q1/2020)
+- [ ] New language support (Q1-Q2/2020) 
+- [ ] Works on iOS (Q2/2020) 
+- [ ] Pin protection (Q2/2020) 
+- [ ] NFC payments (Q4/2020) 
 
 ## **Partner Projects**
 
