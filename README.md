@@ -1,4 +1,5 @@
 # **A closer look at PlusBit Point of Sale**
+![landscape](https://plusbit.tech/assets/img/lanscape.png)
 
 ## **Problem statement**
 
