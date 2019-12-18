@@ -99,8 +99,18 @@ You don't need to wait wallet sync.
 
 ## **Partner Projects**
 
-Reddcoin, Litecoin, Zcoin, ZERO, HTMLcoin, Safecoin
-DigiByte, ILCoin, BitCore, BitcoinZ. 
+* **Reddcoin** 
+* **Litecoin** 
+* **Zcoin** 
+* **ZERO** 
+* **HTMLcoin** 
+* **Safecoin**
+* **DigiByte** 
+* **ILCoin** 
+* **BitCore** 
+* **BitcoinZ**
+* **GoByte**
+* **Global Token**
 
 ## **For enquiries & support**
 
