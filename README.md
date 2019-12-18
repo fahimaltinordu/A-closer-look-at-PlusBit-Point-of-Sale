@@ -115,6 +115,8 @@ You don't need to wait wallet sync.
 ## **For enquiries & support**
 
 * **Website**: https://plusbit.tech/
+* **Github**: https://github.com/PlusBitPos
+* **Bitcointalk**: https://bitcointalk.org/index.php?topic=5206673
 * **Telegram**: https://t.me/PlusBitPos
 * **Twitter**: https://twitter.com/PlusBitPos
 * **Email**: info@plusbit.tech; business@plusbit.tech
