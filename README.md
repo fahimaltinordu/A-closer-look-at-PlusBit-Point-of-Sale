@@ -110,7 +110,7 @@ You don't need to wait wallet sync.
 * **BitCore** 
 * **BitcoinZ**
 * **GoByte**
-* **Global Token**
+
 
 ## **For enquiries & support**
 
